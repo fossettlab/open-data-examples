@@ -1,8 +1,8 @@
 # open-data-examples
 
-Example notebooks and tutorials for a **proposed independent copy of public data sourced from the NASA Planetary Data System (PDS) Geosciences Node**, proposed for [AWS Open Data](https://opendata.aws/). The copy\'s operator is **WashU EEPS (Washington University in St. Louis Department of Earth, Environmental, and Planetary Sciences)**. This independent copy is **not operated or endorsed by NASA or PDS**.
+Example notebooks and tutorials for a **proposed independent copy of public data sourced from the NASA Planetary Data System (PDS) Geosciences Node**, proposed for [AWS Open Data](https://opendata.aws/). The copy's operator is **WashU EEPS (Washington University in St. Louis Department of Earth, Environmental, and Planetary Sciences)**. This independent copy is **not operated or endorsed by NASA or PDS**.
 
-The source Geosciences Node at Washington University in St. Louis archives data on the surfaces and interiors of terrestrial planetary bodies (Mars, the Moon, Venus, Mercury, and related missions). The independent copy\'s content and coverage are not fixed; it is not a complete mirror. The bucket has not been provisioned, and these resource values are unverified placeholders:
+The source Geosciences Node at Washington University in St. Louis archives data on the surfaces and interiors of terrestrial planetary bodies (Mars, the Moon, Venus, Mercury, and related missions). The independent copy's content and coverage are not fixed; no complete mirror is claimed. The bucket has not been provisioned, and these resource values are unverified placeholders:
 
 | Field | Value |
 |-------|--------|
